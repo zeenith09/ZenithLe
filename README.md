@@ -12,13 +12,15 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zenithle" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/zeenith09" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/leetcode.svg" alt="leetcode" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/leetcode.svg" alt="leetcode" height="30" width="30" />
   </a>
+  
   <a href="https://linktr.ee/zenithle" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linktree.svg" alt="linktree" height="30" width="40" />
+    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" alt="linktree" height="30" width="30" />
   </a>
-    <a href="mailto:zeenith.029@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/larsenwork/web.svg.min/master/svg/social%20icons:logos/email.svg" alt="email" height="30" width="40" />
+  
+  <a href="mailto:zeenith.029@gmail.com" target="_blank">
+    <img align="center" src="https://brandeps.com/logo-download/G/Gmail-logo-vector-01.svg" alt="email" height="30" width="30" />
   </a>
 </p>
 
@@ -47,7 +49,7 @@ ___
 
 <h3 align="center">Tools I’m familiar with</h3>
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/web/public/logos/nextjs.dark.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
@@ -60,9 +62,9 @@ ___
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dochne/wappalyzer/main/src/images/icons/Canva.svg" alt="Canva" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303536/wordpress-icon-logo.svg" alt="wordpress" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/wix/000000" alt="Wix" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/copilot.svg" alt="Copilot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wordpress.svg" alt="wordpress" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/wix-company-icon.svg" alt="Wix" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_copilot.svg" alt="Copilot" width="40" height="40"/>
 </p>
 
 <h3 align="center">Tools I’ve interacted with & want to grow in</h3>
@@ -71,10 +73,10 @@ ___
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/android.svg" alt="android" width="40" height="40"/>
