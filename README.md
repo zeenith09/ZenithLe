@@ -1,10 +1,14 @@
-<h1 align="center">Hi, I'm Zenith 👋</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cfafa063-06aa-4c41-ae9e-811f2236c432" alt="zeenith09_github_banner" />
+</p>
+
+
 <h3 align="center">Frontend / UI-focused Software Engineer who cares about clean interfaces, accessibility, and building things people actually enjoy using.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeenith09&label=Profile%20views&color=0e75b6&style=flat" alt="zeenith09" /> </p> 
 
 <p align="center"> 
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/zenithle" target="blank">
+  <a href="https://www.linkedin.com/in/zenithle" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zenithle" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/zeenith09" target="blank">
@@ -81,5 +85,3 @@ ___
 
 ___
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenith09&" alt="zeenith09" /></p>
-
-___
