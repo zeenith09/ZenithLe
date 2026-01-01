@@ -1,7 +1,22 @@
 <h1 align="center">Hi, I'm Zenith 👋</h1>
 <h3 align="center">Frontend / UI-focused Software Engineer who cares about clean interfaces, accessibility, and building things people actually enjoy using.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeenith09&label=Profile%20views&color=0e75b6&style=flat" alt="zeenith09" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeenith09&label=Profile%20views&color=0e75b6&style=flat" alt="zeenith09" /> </p> 
+
+<p align="center"> 
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/zenithle" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zenithle" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/zeenith09" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/leetcode.svg" alt="leetcode" height="30" width="40" />
+  </a>
+  <a href="https://linktr.ee/zenithle" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linktree.svg" alt="linktree" height="30" width="40" />
+  </a>
+    <a href="mailto:zeenith.029@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/larsenwork/web.svg.min/master/svg/social%20icons:logos/email.svg" alt="email" height="30" width="40" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Turning a Figma UI/UX project into a fully functional, cross-device web application**
 
@@ -13,12 +28,7 @@
 
 - 📫 How to reach me **zeenith.029@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zenithle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zenithle" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zeenith09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zeenith09" height="30" width="40" /></a>
-</p>
-
+___
 <h3 align="center">Languages I've interacted with</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -50,6 +60,7 @@
   <img src="https://cdn.simpleicons.org/wix/000000" alt="Wix" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/pheralb/svgl/main/static/library/copilot.svg" alt="Copilot" width="40" height="40"/>
 </p>
+
 <h3 align="center">Tools I’ve interacted with & want to grow in</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -68,4 +79,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
 </p>
 
+___
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeenith09&" alt="zeenith09" /></p>
+
+___
