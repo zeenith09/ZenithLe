@@ -8,11 +8,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeenith09&label=Profile%20views&color=0e75b6&style=flat" alt="zeenith09" /> </p> 
 
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/zenithle" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zenithle" height="30" width="40" />
+  <a href="http://zenithle.tech/" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/1006/1006771.png" alt="portfolio" height="30" width="30" />
   </a>
+  
   <a href="https://www.leetcode.com/zeenith09" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/leetcode.svg" alt="leetcode" height="30" width="30" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/zenithle" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zenithle" height="30" width="40" />
   </a>
   
   <a href="https://linktr.ee/zenithle" target="blank">
@@ -20,7 +25,7 @@
   </a>
   
   <a href="mailto:zeenith.029@gmail.com" target="_blank">
-    <img align="center" src="https://brandeps.com/logo-download/G/Gmail-logo-vector-01.svg" alt="email" height="30" width="30" />
+    <img align="center" src="https://brandeps.com/logo-download/G/Gmail-logo-vector-01.svg" alt="email" height="35" width="35" />
   </a>
 </p>
 
