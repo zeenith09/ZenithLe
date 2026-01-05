@@ -35,9 +35,9 @@
 
 - 👯 I’m looking to collaborate on **Volunteer or opportunities where design + engineering overlap**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/zenithle](https://linktr.ee/zenithle)
+- 👨‍💻 All of my projects are available on my [website](https://zenithle.tech/#projects) or [Linktree](https://linktr.ee/zenithle)
 
-- 📫 How to reach me **zeenith.029@gmail.com**
+- 📫 Reach me through any of the attached socials here on Github or on my [website](https://zenithle.tech/#contact). I response best with emails.
 
 ___
 <h3 align="center">Languages I've interacted with</h3>
