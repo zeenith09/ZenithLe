@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeenith09&label=Profile%20views&color=0e75b6&style=flat" alt="zeenith09" /> </p> 
 
 <p align="center"> 
-  <a href="http://zenithle.tech/" target="_blank">
+  <a href="http://www.zenithle.tech/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/128/1006/1006771.png" alt="portfolio" height="30" width="30" />
   </a>
   
@@ -35,9 +35,9 @@
 
 - 👯 I’m looking to collaborate on **Volunteer or opportunities where design + engineering overlap**
 
-- 👨‍💻 All of my projects are available on my [website](https://zenithle.tech/#projects) or [Linktree](https://linktr.ee/zenithle)
+- 👨‍💻 All of my projects are available on my [website](https://www.zenithle.tech/#projects) or [Linktree](https://linktr.ee/zenithle)
 
-- 📫 Reach me through any of the attached socials here on Github or on my [website](https://zenithle.tech/#contact). I response best with emails.
+- 📫 Reach me through any of the attached socials here on Github or on my [website](https://www.zenithle.tech/#contact). I response best with emails.
 
 ___
 <h3 align="center">Languages I've interacted with</h3>
